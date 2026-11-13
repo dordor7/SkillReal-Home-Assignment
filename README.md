@@ -26,6 +26,6 @@ The JSON exports contain per-weld measurements from the fold checkpoints. They i
 
 [Report export](./weld_report.json) · [Export (1)](./weld_report%20%281%29.json) · [Export (2)](./weld_report%20%282%29.json) · [Export (3)](./weld_report%20%283%29.json) · [Export (4)](./weld_report%20%284%29.json)
 
-## 💬 Conversation summary
+## 💬 LLM Conversation summary
 
 [`SkillReal_Assignment_Conversation_Summary.md`](./SkillReal_Assignment_Conversation_Summary.md) is a condensed, paraphrased dialogue with ChatGPT. It documents the ideas I proposed, the alternatives I explored, and how I interpreted the model’s results.
