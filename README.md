@@ -22,7 +22,7 @@ To reproduce the workflow, open the notebook in Colab, select a GPU runtime, and
 
 ## 📊 Customer weld reports
 
-The JSON exports contain per-weld measurements from the fold checkpoints. They include the maximum pore bounding-box area, the highest pore count within a configurable bead section, and the distance and bounding-box area of the deposit closest to the centerline. Distances are reported in pixels and areas in square pixels.
+The JSON exports contain per-weld measurements from the fold checkpoints. They correspond to each of teh folds, and include the maximum pore bounding-box area, the highest pore count within a configurable bead section, and the distance and bounding-box area of the deposit closest to the centerline. Distances are reported in pixels and areas in square pixels.
 
 [Report export](./weld_report.json) · [Export (1)](./weld_report%20%281%29.json) · [Export (2)](./weld_report%20%282%29.json) · [Export (3)](./weld_report%20%283%29.json) · [Export (4)](./weld_report%20%284%29.json)
 
