@@ -1,7 +1,5 @@
 # SkillReal ML Engineer Home Assignment
 
-**Weld defect detection with YOLOv7-tiny on the LoHi-Weld dataset**
-
 This submission covers the workflow from preparing the dataset and evaluating the detector to turning predictions into per-weld measurements for customer inspection.
 
 [**Read the final report →**](./final_report.pdf) · [**Open the notebook in Colab →**](https://colab.research.google.com/github/dordor7/SkillReal-Home-Assignment/blob/main/SkillReal_ML_Engineer_Home_Assignment.ipynb)
